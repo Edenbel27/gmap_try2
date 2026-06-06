@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "gmap-customer-app",
+    "slug": "gmap-customer-app",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
